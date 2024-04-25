@@ -123,6 +123,15 @@ color: #fff;
     color: #7c7c7c;
 }
 
+.intro {
+    /* Add your styles here */
+    font-size: 3em;
+    line-height: 1;
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: left;
+  }
+
 .sobre-img{
     flex: 1 1 160px;
     margin: 0 10px;
@@ -367,7 +376,7 @@ color: #fff;
 }
 
 .footer{
-    height: 200px;
+    height: 80px;
     display: flex;
     background: #2c70ff;
     align-items: center;
@@ -376,6 +385,6 @@ color: #fff;
 .footer p{
     flex: 1;
     text-align: center;
-    font-size: 2.25em;
+    font-size: 1.25em;
     color: #1221b2;
 }
